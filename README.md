@@ -1,17 +1,14 @@
 # SerialTestApp
-
 Arduino用のシリアルモニタアプリ（他のも使えそう）
 
 # DEMO
+![screen01](https://github.com/test-okome/SerialTestApp/blob/master/screen01.png "screen01")
 
 # Features
-
 # Requirement
-
 # Installation
 
 # Usage
-
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 
 ```bash
